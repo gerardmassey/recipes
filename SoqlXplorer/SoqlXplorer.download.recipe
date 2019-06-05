@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of SoqlXplorer.</string>
 	<key>Identifier</key>
-	<string>solutions.surge.download.SoqlXplorer</string>
+	<string>com.gerardmassey.download.SoqlXplorer</string>
 	<key>Input</key>
 	<dict>
 		<key>NAME</key>

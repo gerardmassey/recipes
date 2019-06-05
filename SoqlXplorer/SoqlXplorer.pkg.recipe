@@ -7,7 +7,7 @@
 	<key>Description</key>
 	<string>Downloads the latest version of SoqlXplorer and creates a package.</string>
 	<key>Identifier</key>
-	<string>solutions.surge.pkg.SoqlXplorer</string>
+	<string>com.gerardmassey.pkg.SoqlXplorer</string>
 	<key>Input</key>
 	<dict>
 		<key>BUNDLE_ID</key>
@@ -18,7 +18,7 @@
 	<key>MinimumVersion</key>
 	<string>1.0.0</string>
 	<key>ParentRecipe</key>
-	<string>solutions.surge.download.SoqlXplorer</string>
+	<string>com.gerardmassey.download.SoqlXplorer</string>
 	<key>Process</key>
 	<array>
 		<dict>
